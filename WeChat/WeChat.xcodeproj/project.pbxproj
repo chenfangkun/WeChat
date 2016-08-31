@@ -117,6 +117,8 @@
 			isa = PBXGroup;
 			children = (
 				EB36B4BA1D77200C009D2E15 /* main.m */,
+				EB36B4F61D7724E5009D2E15 /* Person.h */,
+				EB36B4F71D7724E5009D2E15 /* Person.m */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -305,6 +307,7 @@
 			files = (
 				EB36B4FF1D772603009D2E15 /* ViewController.m in Sources */,
 				EB36B4BE1D77200C009D2E15 /* AppDelegate.m in Sources */,
+				EB36B4F81D7724E5009D2E15 /* Person.m in Sources */,
 				EB36B4BB1D77200C009D2E15 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
